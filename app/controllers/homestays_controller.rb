@@ -4,9 +4,9 @@ class HomestaysController < ApplicationController
   def index
     @homestays =
       if params[:query].present?
-        policy_scope(Homestay).search_by_address(params[:query])
+        policy_scope(Homestay).search_by_address(params[:query]).order(:created_at).reverse_order
       else
-        policy_scope(Homestay)
+        policy_scope(Homestay).order(:created_at).reverse_order
       end
 
     @markers = @homestays.geocoded.map do |homestay|
@@ -19,7 +19,7 @@ class HomestaysController < ApplicationController
 
     @tags = ActsAsTaggableOn::Tag.all
 
-    @homestays = @homestays.tagged_with(params[:tags]) if params[:tags]&.any?
+    @homestays = @homestays.tagged_with(params[:tags]).order(:created_at).reverse_order if params[:tags]&.any?
   end
 
   def show
