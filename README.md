@@ -4,11 +4,11 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
 
 An Airbnb style web application with a concentration on sharing homestay experiences. Find a family to host you anywhere in the world, or host your own traveller from abroad.
 
-_DROP SCREENSHOT HERE_!
 <img width="1248" alt="2022-12-05 (15)" src="https://user-images.githubusercontent.com/114859704/205580308-82662bed-0f37-4e81-9e26-f7f1f493ed5a.png">
 <img width="1248" alt="2022-12-05 (23)" src="https://user-images.githubusercontent.com/114859704/205580170-9ee807cd-de7e-4eaf-8678-a4ba79a88d51.png">
 <img width="1248" alt="2022-12-05 (16)" src="https://user-images.githubusercontent.com/114859704/205580233-c9ea4a6a-a706-493d-898b-01113c380d03.png">
 <img width="1248" alt="2022-12-05 (17)" src="https://user-images.githubusercontent.com/114859704/205580248-8d1d533d-06a0-4dc4-a039-fee166e44f63.png">
+<img width="1248" alt="2022-12-05 (22)" src="https://user-images.githubusercontent.com/114859704/205580442-9dd1bb99-3420-4d49-9ff0-02e58e670f6d.png">
 <img width="1248" alt="2022-12-05 (18)" src="https://user-images.githubusercontent.com/114859704/205580262-a6c97b9f-4404-4d40-905a-057e647b2ba0.png">
 <img width="1248" alt="2022-12-05 (19)" src="https://user-images.githubusercontent.com/114859704/205580271-140dfef7-921d-4ef7-a289-349d857d2024.png">
 
