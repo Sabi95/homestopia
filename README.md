@@ -1,6 +1,6 @@
 # 🏡 Project Name
 
-An Airbnb style web application with a concentration on sharing homestay experiences. Find a family to host you anywhere in the world, or host your own traveller from abroad.
+A marketplace web application with a concentration on sharing homestay experiences. Find a family to host you anywhere in the world, or host your own traveller from abroad.
 
 <img width="1248" alt="2022-12-05 (15)" src="https://user-images.githubusercontent.com/114859704/205580308-82662bed-0f37-4e81-9e26-f7f1f493ed5a.png">
 <img width="1248" alt="2022-12-05 (16)" src="https://user-images.githubusercontent.com/114859704/205580233-c9ea4a6a-a706-493d-898b-01113c380d03.png">
