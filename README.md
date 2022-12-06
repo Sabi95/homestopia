@@ -1,6 +1,4 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
-
-# 📚 Project Name
+# 🏡 Project Name
 
 An Airbnb style web application with a concentration on sharing homestay experiences. Find a family to host you anywhere in the world, or host your own traveller from abroad.
 
