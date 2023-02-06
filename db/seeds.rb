@@ -12,7 +12,26 @@
 # puts "Destroying all homestays..."
 # Homestay.destroy_all
 
+User.create!(
+  email: "guest@me.com",
+  password: "123456",
+  first_name: "Guest",
+  last_name: "User",
+  age: rand(20..50),
+  gender: "----",
+  description: "Hello, I am a guest user!",
+  img_url: "../app/assets/images/flower-avatar.jpg")
 
+
+# User.create!(
+#   email: "savi@me.com",
+#   password: "123456",
+#   first_name: "Savithri",
+#   last_name: "Wewala",
+#   age: rand(20..50),
+#   gender: "female",
+#   description: "Hello, my name is Savithri, but you can call me Savi or Sabi. I am originally from Canada, but I was living in Sendai for the last two years (studying linguistics, but my background is psychology) and only just recently moved to Tokyo for the coding camp. I am still quite new to coding in general, so I look forward to learning together with everyone!",
+#   img_url: "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1664769848/vdngpd4bmtp7oioig3bo.jpg")
 
 
 # User.create!(
